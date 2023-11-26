@@ -1,6 +1,6 @@
 # Quantum Computer Simulator - QuantumAI
 
-![Quantum Computer](https://via.placeholder.com/700x300)
+![Quantum Computer](https://scontent.fblr8-1.fna.fbcdn.net/v/t39.30808-6/296019427_420192080129872_2988819121460310522_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NPHGeKq4Q8oAX_n0tx3&_nc_ht=scontent.fblr8-1.fna&oh=00_AfDypFuUw202bPxzNGjlIuEsHc3MajL63gfdrx_3bWjzHw&oe=65676BDF)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Issues](https://img.shields.io/github/issues/kdheeraz/Quantum-Computer-Simulator)](https://github.com/kdheeraz/Quantum-Computer-Simulator/issues)
