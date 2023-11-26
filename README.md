@@ -16,9 +16,6 @@ Welcome to the QuantumAI project! This repository hosts a Quantum Computer Simul
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
